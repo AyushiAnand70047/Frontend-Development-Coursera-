@@ -1,0 +1,100 @@
+Getting Started With HTML
+1. An HTML document begins with ______________.
+-> The DOCTYPE declaration
+
+2. To display a link to another HTML document, the ______________ tag is used.
+-> anchor (a)
+
+3. To add an image to a webpage, the ______________ tag is used.
+-> img 
+
+4. To represent the HTML document in JavaScript, the browser builds  _____________.
+-> Document Object Model
+
+5. Which of the following answer choices improves web accessibility for people with disabilities? Select all that apply.
+Correct HTML structure
+Accessible Rich Internet Application (ARIA) techniques
+Appropriate use of HTML elements
+
+CSS Basics
+1. To reference a CSS file in an HTML document, you use the ______________ tag.
+-> link
+
+2. In the following CSS rule, the `h1` part of the rule is called the ______________. h1 { color: green; }
+-> Selector
+
+3. What is the total horizontal margin of the following CSS rule? 
+div {
+    width: 10px;
+    padding: 20px;
+    margin: 40px;
+}
+-> 80 pixels
+
+4. Which CSS property and value change the HTML element to a block-level element?
+-> display: block
+
+5. Which CSS property and value change the text to center alignment?
+-> text-align: center
+
+Introduction to HTML CSS
+1. Which two elements should be added to the html element to make the structure of an HTML document?
+<!DOCTYPE html>
+<html>
+</html>
+-> <body> , <head>
+
+2. When using the anchor tag <a>, which attribute determines where the hyperlink links to? 
+-> href
+
+3. When adding an image to a web page, which of the following is the correct HTML tag?
+-> <img>
+
+4. How many columns exist on the following HTML table?
+<table>
+    <tr>
+        <td>Falafel</td>
+        <td>$10.00</td>
+    </tr>
+    <tr>
+        <td>Pasta Salad</td>
+        <td>$12.00</td>
+    </tr>
+    <tr>
+        <td>Dessert</td>
+        <td>$8.00</td>
+    </tr>
+</table>
+-> 2 columns
+
+5. When an HTML form is submitted to a web server, which HTTP methods can be used? Select all that apply.
+-> POST, GET
+
+6. For the following HTML code, which CSS selectors can be used to select the h1 element? Select all that apply.
+<h1 id="title">Welcome</h1>
+-> Element Selector, id Selector
+
+7. In the following CSS code, what is the color: part known as?
+h1 {
+    color: purple;
+} 
+-> CSS Property
+
+8. Based on the following CSS, what will be the margin-box width for div elements?
+div {
+    width: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+-> 30 pixels (The margin-box width = content width + padding width + border width + margin width. In this scenario, the margin-box width is 30 pixels.)
+
+9. True or false. In document flow, block-level elements always start on a new line.
+-> True
+
+10. Based on the following CSS code, how will the text be aligned for the p element?
+p {
+    text-align: justify;
+}
+-> The text will be spread out so that every line of the text has the same width within the p element.

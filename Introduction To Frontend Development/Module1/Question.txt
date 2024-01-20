@@ -1,0 +1,122 @@
+----> How web works
+1. A network is made up of at least two devices that connect and communicate via a wired or wireless connection. One network switch can connect to another switch to link two networks.  -> True
+
+2. A server is a computer that runs applications and services, ranging from websites to instant messaging. You have just learned about a web server which is a specific type of server. Which of the following statements are true? Choose all that apply.
+Ans ->
+A web server can handle security.     
+A web server can function as website storage and administration.     
+Web servers can handle thousands of requests from clients per second.     
+
+3. Which of the following technologies is used to structure content on a webpage?
+HTML
+
+4. A web browser is a software application that you use to browse the world wide web. -> True
+
+5. Cloud hosting uses a combination of physical and virtual servers? -> True
+
+Assignment -> How web works
+1. In the client/server model, the accessing device is a ____________________.
+-> Client
+
+2. The website address that you type in your web browser to navigate to a website is called a ____________________.
+-> Domain name
+
+3. Servers are typically stored in a building called a ____________________.
+-> Data Center
+
+4. The physical components of a server are called the ____________________.
+-> Hardware
+
+5. The purpose of a web server is to ____________________.
+-> Receive requests from a web browser and to respond with the correct content for that request.
+
+6. A website can consist of multiple web pages linked together.
+-> True
+
+7. The links you click on in your web browser are known as ____________________.
+-> Hyperlinks
+
+8. Which of these are the 3 main technologies of the web browser? Select all that apply.
+-> HTML, CSS, JAVASCRIPT
+
+9. When you run a website on the cloud, the website is restricted to one physical server.
+-> False
+
+----> Core Internet Technology
+1. The payload part of IP packets supports multiple protocols to make sure that information arrives as expected. Two of these are Transmission Control Protocol (TCP) and User Datagram Protocol (UDP). UDP is used to send data that must arrive correctly and in order.
+-> False (TCP is used for data that must arrive correctly and in order. This is because TCP can deal with data packets arriving out of order, becoming damaged or corrupted, or dropped or lost albeit at the cost of a small delay.)
+
+2. Which of the following web resources can be transferred using HTTP? Select all that apply.
+HTML Documents
+Images
+Files
+
+3. In the first example of a digital clock, which type of file ensured that the display updated with the correct time? 
+-> The JavaScript file
+
+4. Think of your favorite interactive map, social media site or video content site. What features and functionality do you think web applications provide to their users?  Select all that apply.
+A high level of interactivity.
+Personalized content.
+Dynamically updated content.
+
+Assignment -> The Web and the Internet
+1. When sending a message to another computer, the source and destination are specified using  ________________. 
+-> an IP Address
+
+2. Which of the following are valid IP addresses? Select all that apply.
+192.0.2.235
+4527:0db8:0a00:1567:0200:ff00:0042:8329
+
+3. When using TCP, data can arrive out of order. 
+-> True
+
+4. Which of the following are valid HTTP methods? Select all that apply.
+GET
+POST
+DELETE
+
+5. HTML describes the structure and content of a web page.
+-> True
+
+6. When you type a website address (for example, coursera.org) in your web browser, which protocol is used to find the IP address of the website?
+-> Domain Name System Protocol (DNS)
+
+7. A web application is more ________________ compared to a website.
+-> Interactive
+
+Developer Tools
+1. As a developer, there are several web browser developer tools available to you. For example, there is a console tab that outputs JavaScript logs and errors from a web application. Which of the following statements are true? Choose all that apply.      
+The Sources tab shows all content resolved for the current page.   
+The Network tab allows you to inspect the timeline and details of HTTP requests and responses for a webpage. 
+The Memory tab displays the parts of your code that are consuming the most resources.  
+(The Performance tab shows what the web browser is doing over time. It can help you identify functions that are taking the most time if your web application is running slow.)
+
+2. To reduce development time, developers use libraries in their application development. What’s the main feature of a library?  
+-> Reusable pieces of code.
+
+3. You are building a website with a team of developers. The team lead refers to APIs as gateways. Is this a correct use of terminology?
+-> Yes (APIs are also known as gateways or middleware because they act as a bridge between systems.)
+
+4. An integrated development environment, or IDE, is software for building applications. This kind of software application has many different features to help you as a developer. Which of the following statements are true? Choose all that apply.    
+Special keywords of the programming language are highlighted in different colors to make the code easier to read. 
+IDEs have a feature called Error Highlighting.
+IDEs have a feature that can detect variables and functions and offer them as suggestions during autocomplete. 
+
+Assignment -> Core Internet Technologies
+1. Which of the following can be done using the developer tools in your browser? Select all that apply. 
+Inspect the HTML elements of a web page.
+Check JavaScript error logs.
+Inspect a timeline of HTTP requests and responses.
+Inspect the performance and memory usage of a webpage.
+
+2. In software development, a library provides _________________________.
+Reusable pieces of code that can be used by your application.
+
+3. In software development, an API is _________________________.
+a set of functions that an application component or service can provide.
+
+4. Which of the following are benefits of using an Integrated Development Environment (IDE) such as Visual Studio Code? Select all that apply.
+Syntax Highlighting
+Error Highlighting
+Autocomplete
+IntelliSense

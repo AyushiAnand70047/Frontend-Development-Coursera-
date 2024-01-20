@@ -1,0 +1,30 @@
+HTML 
+HTML is used to describe the structure of Web pages. Developers use HTML elements with their opening and closing tags to “mark up” an HTML document. 
+
+This means that an HTML document must be represented in a way that JavaScript code can query and update it. And that's the function of the DOM. It's a model of the objects in your HTML file.
+web developers interact with the DOM through JavaScript to update content, set up events and animate HTML elements.
+
+
+Layout & Style
+<html> 
+<head> 
+<body> 
+<div> 
+
+Text formatting & lists
+<h1>…<h6> 
+<p> 
+<ul><li> 
+<b><i> 
+
+Images and links
+<img src=""> 
+<a href=""> 
+
+Linking and Meta
+<link> 
+<title> 
+<meta> 
+
+Semantic
+<header> 

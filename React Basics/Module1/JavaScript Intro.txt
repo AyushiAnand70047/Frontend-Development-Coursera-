@@ -1,0 +1,27 @@
+JavaScript fundamentals and ES6
+React is completely written in JavaScript and uses the more modern version of JavaScript which is ES6.
+
+JavaScript is the programming language and React is a JavaScript UI library. 
+
+JavaScript Topics (must know before learning React)
+Data types 
+Using var, let and const 
+Conditionals and Loops 
+Using objects, arrays and functions 
+ES6 Arrow functions 
+In-built functions such as map(), forEach() and promises. 
+Destructuring Arrays and Objects 
+Error Handling 
+
+Package Manager (Node + npm)
+React is a UI library, and you will encounter that many times you will need to add other packages to your React application. A package in JavaScript contains all the files needed for a module. To install these packages effectively and manage their dependencies you can use a package manager like NPM (Node Package Manager).
+
+You can install npm by installing Node.js, which will then automatically install npm.
+
+you will be using npm to install packages within your React application.
+
+Installation command to install npm modules in your project 
+Installing a package as a dev dependency 
+Start command 
+Updating npm version 
+Navigating around the package.json file 

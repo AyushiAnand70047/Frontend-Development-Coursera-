@@ -1,0 +1,47 @@
+Getting Started With HTML
+1. You want to insert a paragraph on your website. Choose the correct format for the opening and closing paragraph tags:     
+-> Opening tag: <p> Closing tag: </p> 
+
+2. The structure of an HTML document starts with:    
+-> <!DOCTYPE html> 
+
+3. You are creating a website and you want to add a link to the about.html page on your home.html page. What is the correct notation to create this link?   
+-> <a href = “about.html”>About</a> 
+
+4. You want to add an image to your webpage. What should you add within the image tag? Please select all that apply.    
+The alt description
+The link to the source file
+The width and height specifications
+
+5. You are developing a website for a shoe shop. In order to add a table to your website, which tags can you use? Select all that apply.
+The table tag: <table> </table>
+The table row tag: <tr> </tr> 
+The table header tags: <th> </th> 
+The table data tags: <td> </td>
+
+6. You are building an e-commerce site for a client. What kind of input types could you use? Check all that apply.
+Textarea
+Number
+Checkbox
+Radio
+Password
+Text
+Email
+
+7. The Document Object Model allows you to update all HTML elements on a web page.
+-> True
+
+8. Which of the following technologies are examples of assistive technologies? Select all that apply.    
+Screen reader software
+Subtitles in videos
+Speech recognition software
+
+CSS Basics
+1. When you create a CSS rule, the part inside the curly brackets is called the: 
+-> Declaration block
+
+2. You are busy designing a web page for a small company. They supplied you with an image that needs to be in the center on the landing page. The image has a content width of 100px, 10px padding on both left and right sides, a 10px border on both left and right sides and a 10px margin on both left and right sides. What is the border box width?
+-> 140px (Border box width = content width (100) + padding width (2x10) + border width (2x10))
+
+3. Inline elements appear on a new line. 
+-> False

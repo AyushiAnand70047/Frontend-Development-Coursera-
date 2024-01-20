@@ -1,0 +1,9 @@
+CSS 
+CSS (Cascading Style Sheets) is the code that you use to style HTML.
+
+CSS styling options:
+Font styling (font size, font color, etc.) 
+Flex Box Layout (Layout of items using CSS Flex Box Layout) 
+CSS Selectors 
+Position, Padding, Margins and Display 
+Colors, Background and Icons 
