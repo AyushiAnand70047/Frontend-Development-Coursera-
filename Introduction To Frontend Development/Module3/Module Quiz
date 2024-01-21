@@ -1,0 +1,16 @@
+Introduction to UI frameworks and libraries
+1. To reference a JavaScript script or file in an HTML document, you use the ______________ tag.
+-> script
+
+2. If your application requires a library or framework to run, this is called a ______________.
+-> dependency
+
+3. Question 3
+A point at which a website's content and design will adapt in order to provide the best user experience is called a ______________.
+-> Breakpoint 
+
+4. The Bootstrap Grid System always starts with which element?
+-> Container
+
+5. The responsive breakpoint for Bootstrap CSS rules is determined by the ______________?
+-> Infix
