@@ -1,0 +1,22 @@
+Arrays, Objects and Functions
+1. You are creating a function and write the following code:
+function hello() {
+  console.log(“Hello world”);
+}
+How do you call your function in your code?      
+-> hello();
+
+2. You have the following array:
+var colors = ["red", "blue", "green", "yellow"];
+Which one of the following would you use to call “green” from this array?
+-> colors[2]
+
+3. You have created a “worker” character for your game and would like to assign it several traits. Which of the following best describes the benefits of creating an object for this purpose? Choose all that apply.
+It enables you to use shorter property names.
+All properties can be connected to the same object.
+
+4. You have written the following code:
+var myNum = Math.ceil(2.49);
+console.log(myNum);
+When you run this code, what value will be returned? Select the correct answer below:      
+-> 3
