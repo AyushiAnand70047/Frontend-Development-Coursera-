@@ -44,3 +44,104 @@ function add(a, b) {
 7. Which of the following are functions of the Math object?
 correct -> random(), round(), sqrt()
 Incorrect -> trim() (This is a function offered by strings, and this is used to remove the whitespace from both sides of a string. )
+
+Error Handling
+1. What will be printed when the following code runs?
+var result = null;
+console.log(result);
+-> null
+
+2. When the following code runs, what will print out?
+try {
+    console.log('Hello');
+  } catch(err) {
+    console.log('Goodbye');
+  }
+-> Hello
+
+3. If you pass an unsupported data type to a function, what error will be thrown?
+-> TypeError
+
+4. What will print out when the following code runs?
+var x;
+  if(x === null) {
+    console.log("null");
+  } else if(x === undefined) {
+    console.log("undefined");
+  } else {
+    console.log("ok");
+  }
+-> undefined
+
+5. What will print out when the following code runs?
+ throw new Error();
+  console.log("Hello");
+-> Nothing will print out. (Throwing an error will stop the execution of the code.)
+
+The Building Blocks of a Program
+1. What data type is the variable  x ?
+  var x = {};
+-> object
+
+2. What will be the output of running the following code?  
+try {
+console.log('hello)
+} catch(e) {
+console.log('caught')
+}
+-> Uncaught SyntaxError: Invalid or unexpected token.(you cannot handle SyntaxErrors in JavaScript using a try catch block.)
+
+3. What value is printed when the following code runs?
+var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"];
+  console.log(burger[2]);
+-> lettuce
+
+4. In the following code, how many methods does the  bicycle  object have?
+var bicycle = {
+      wheels: 2,
+      start: function() {
+
+      },
+      stop: function() {
+
+      }
+  };
+-> 2 (wheels  is a property and  start  and  stop  are methods.)
+
+5. When the following code runs, what will print out?
+try {
+    throw new Error();
+    console.log('Hello');
+  } catch(err) {
+    console.log('Goodbye');
+  }
+-> Goodbye
+
+6. If you mis-type some code in your JavaScript, what kind of error will that result in?
+-> SyntaxError
+
+7. Will the following code execute without an error?
+function add(a, b) {
+    console.log(a + b)
+  }
+
+  add(3, "4");
+-> Yes
+
+8. What will be printed when the following code runs?
+var result;
+console.log(result);
+-> undefined
+
+9. What will be the output of the following code?
+var str = "Hello";
+str.match("jello");
+-> null( Since the string "Hello" doesn't contain the string "jello", it cannot be matched, and thus an array object with the matching result cannot be created. Hence, the return value is null, signaling the absence of a matching result.)
+
+10. What will be the output of the following code?
+try {
+Number(5).toPrecision(300)
+} catch(e) {
+console.log("There was an error")
+}
+-> "There was an error" (The catch block will execute and print because of the Range error.)

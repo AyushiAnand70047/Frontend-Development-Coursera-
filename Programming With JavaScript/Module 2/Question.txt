@@ -30,3 +30,16 @@ console.log( parting.concat(name) );
 
 6. In your code, you have a value that is stored as ‘18 > 27’. If you use the typeof operator on this value, which one of these outcomes would the console return?
 -> Boolean
+
+Error Handling
+1. Which of the following errors occur when you write a piece of code that JavaScript cannot read?
+Correct -> SyntaxError
+Incorrect -> TypeError(TypeError can occur when you try to use a value in an inappropriate way.) and ReferenceError( ReferenceError can occur when a value is not defined, but you attempt to use it in your code.)
+
+2. The try catch JavaScript statement can keep a program running even when it encounters an error. True or false?
+-> True
+
+3. What is the expected output of the following code?
+var food;
+console.log(food);
+-> The console.log will display a value of ‘undefined’.
