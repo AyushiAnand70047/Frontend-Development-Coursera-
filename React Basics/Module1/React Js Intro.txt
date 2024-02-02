@@ -1,6 +1,0 @@
-React JS
-React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
-
-React apps are built using modern JavaScript features, which are commonly known as ES6. Developers use React to develop Single Page Applications. And you can also develop mobile applications with React Native.
-
-You are using React to build user interfaces which also include HTML and CSS code.
